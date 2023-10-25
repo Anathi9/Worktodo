@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: rgb(170, 170, 169);
+}
+img{
+    width: 26rem;
+    aspect-ratio: 1/1;
+}
